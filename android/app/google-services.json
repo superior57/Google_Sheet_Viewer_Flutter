@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514720794592",
+    "project_id": "packing-app-90b1c",
+    "storage_bucket": "packing-app-90b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514720794592:android:0d02d6f8aee3e8da074d85",
+        "android_client_info": {
+          "package_name": "com.example.meena_supplies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514720794592-vak6l7tvb3qa27vpjtk4k08but0ah3k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVfj8G3b6--S2K6oslhsXgfTCFBP4PDLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514720794592-vak6l7tvb3qa27vpjtk4k08but0ah3k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
